@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **neelesh6kumar@gmail.com**
 
-- 
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh1097&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh1097" /> </p>
 
