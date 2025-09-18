@@ -45,13 +45,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats  
-<p align="center">
- <img src="https://your-vercel-app.vercel.app/api?username=neelesh1097&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1097&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+### 🚀 Featured Projects
+- 📝 [Portfolio Website](https://porfolio-eta-lilac.vercel.app/) — My personal portfolio
+- 📊 E-commerce Store (React + Node.js) — [Repo Link](https://full-stack-1-x802.onrender.com/)
+  
+
 
 ---
 
