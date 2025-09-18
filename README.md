@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1097&show_icons=true&locale=en&layout=compact" alt="neelesh1097" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1097&" alt="neelesh1097" /></p>
+
