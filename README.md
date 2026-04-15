@@ -11,7 +11,7 @@
 <!-- About Me -->
 ### 👨‍💻 About Me  
 - 🔭 Currently working on **Web Development Projects**  
-- 🌱 Learning **Data Structures & Algorithms**  
+- 🌱 Learning **Data Structures & Algorithms + System Design**  
 - 💬 Ask me about **Anime & Tech**  
 - 👨‍💻 Check out my projects: [Portfolio Website](https://porfolio-eta-lilac.vercel.app/)  
 - 📫 Reach me at **neelesh6kumar@gmail.com**  
@@ -21,8 +21,8 @@
 <!-- Social Links -->
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" />
   </a>
 </p>
 
@@ -31,26 +31,72 @@
 <!-- Skills -->
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
+
+  <!-- Frontend -->
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=react" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=redux" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=js" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=ts" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=html" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=css" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> 
+  </a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=express" height="40"/> 
+  </a>
+
+  <!-- Database -->
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> 
+  </a>
+
+  <!-- Programming -->
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=java" height="40"/> 
+  </a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=git" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=github" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=vscode" height="40"/> 
+  </a>
+
 </p>
 
 ---
 
-
 ### 🚀 Featured Projects
-- 📝 [Portfolio Website](https://porfolio-eta-lilac.vercel.app/) — My personal portfolio
-- 📊 E-commerce Store (React + Node.js) — [Repo Link](https://full-stack-1-x802.onrender.com/)
-  
-
+- 📝 [Portfolio Website](https://porfolio-eta-lilac.vercel.app/) — My personal portfolio  
+- 🛒 E-commerce Store (React + Node.js) — [Live](https://full-stack-1-x802.onrender.com/)  
 
 ---
 
