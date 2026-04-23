@@ -14,7 +14,6 @@
 - 🌱 Learning **Data Structures & Algorithms + System Design**  
 - 💬 Ask me about **Anime & Tech**  
 - 👨‍💻 Check out my projects: [Portfolio Website](https://porfolio-eta-lilac.vercel.app/)  
-- 📫 Reach me at **neelesh6kumar@gmail.com**  
 
 ---
 
