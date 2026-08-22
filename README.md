@@ -1,60 +1,96 @@
 <div align="center">
 
-<img src="./hero-banner.png" alt="Neelesh - Full-Stack Developer" width="100%">
-
-# NEELESH
-
-### Full-Stack Developer · Builder · Problem Solver
-
-**Romanticizing code, but questioning every abstraction.**
-
-I build modern web applications with a focus on thoughtful architecture, clean interfaces, reliable APIs, and continuous improvement.
-
-<p>
-  <a href="https://porfolio-eta-lilac.vercel.app/">Portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/neelesh1097">GitHub</a>
-</p>
+<img src="./hero-banner.png" alt="Neelesh - Full Stack Developer" width="100%">
 
 </div>
 
----
-
-## About
-
-I'm a Full-Stack Developer from India who enjoys turning ideas into working products.
-
-My interests sit at the intersection of **frontend engineering, backend development, APIs, system design, and problem solving**. I like understanding how things work under the hood instead of adding abstractions just because they exist.
-
-Currently, I'm focused on becoming a stronger engineer through deeper work in **Data Structures & Algorithms, System Design, backend architecture, performance, and scalable application design**.
-
----
-
-## What I Build
+<br>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### Product Experiences
+<img src="./profile.png" width="180" alt="Neelesh Developer Profile">
 
-Building responsive and intuitive interfaces where performance, usability, and visual clarity matter.
+<br><br>
+
+### NEELesh
+
+**Full-Stack Developer**
+
+🇮🇳 India
+
+<br>
+
+<a href="https://porfolio-eta-lilac.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<br><br>
+
+<a href="https://github.com/neelesh1097">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </td>
-<td width="33%" valign="top">
 
-### Full-Stack Systems
+<td width="48%" valign="top">
 
-Connecting modern frontends with APIs, backend services, databases, and real-world application logic.
+# Hi, I'm Neelesh 👋
+
+### Full-Stack Developer
+
+I love turning ideas into real-world products. I enjoy solving problems, writing clean code, and continuously learning new things.
+
+<br>
+
+🚀 **Currently building** modern web applications
+
+🌱 **Learning** Data Structures, Algorithms & System Design
+
+🧠 **Exploring** backend architecture and scalable systems
+
+💬 **Ask me about** React, Node.js, APIs & Web Development
+
+⚡ **Fun fact:** I question every abstraction before using it.
+
+<br>
+
+> **"Romanticizing code, but questioning every abstraction."**
 
 </td>
-<td width="33%" valign="top">
 
-### Engineering Foundations
+<td width="27%" valign="top">
 
-Learning the principles behind maintainable architecture, scalability, data structures, and system design.
+## 🎯 What I Focus On
+
+<br>
+
+🏗️ **Clean Architecture**
+
+Designing systems that are easy to understand and evolve.
+
+<br>
+
+📈 **Scalable Solutions**
+
+Learning how applications grow beyond the first version.
+
+<br>
+
+⚡ **Performance**
+
+Building experiences that feel fast and responsive.
+
+<br>
+
+🎨 **User Experience**
+
+Making technical products intuitive and enjoyable.
 
 </td>
 </tr>
@@ -62,135 +98,250 @@ Learning the principles behind maintainable architecture, scalability, data stru
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap" alt="React, Next.js, Redux, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap">
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB">
-</p>
-
-### Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode" alt="Java, Git, GitHub, VS Code">
-</p>
-
----
-
-## Selected Work
-
-### 01 — Full-Stack Application
-
-A full-stack web application built around a modern JavaScript stack, bringing together frontend interfaces, application logic, APIs, and persistent data.
-
-**Focus:** Full-Stack Development · APIs · Application Architecture
-
-[View Repository →](https://github.com/neelesh1097/full-stack)
-
----
-
-### 02 — Crypto
-
-A cryptocurrency-focused web project exploring data-driven interfaces and modern frontend development.
-
-**Focus:** Frontend Development · APIs · Responsive UI
-
-[View Repository →](https://github.com/neelesh1097/crypto)
-
----
-
-### 03 — Movies
-
-A React-based project focused on building an interactive movie experience with a clean user interface.
-
-**Focus:** React · API Integration · UI Development
-
-[View Repository →](https://github.com/neelesh1097/movies)
-
----
-
-### 04 — Meal API
-
-A JavaScript project exploring API-driven application development and dynamic content.
-
-**Focus:** JavaScript · APIs · Dynamic Interfaces
-
-[View Repository →](https://github.com/neelesh1097/mealapi)
-
----
-
-## Currently Focused On
+# 🛠️ Tech Stack
 
 <table>
 <tr>
-<td>🧩</td>
-<td><strong>Data Structures & Algorithms</strong><br>Improving problem-solving ability and algorithmic thinking.</td>
+<td width="130"><strong>Frontend</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind,bootstrap" alt="Frontend Stack">
+
+</td>
 </tr>
+
 <tr>
-<td>🏗️</td>
-<td><strong>System Design</strong><br>Understanding how reliable and scalable systems are designed.</td>
+<td><strong>Backend</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Stack">
+
+</td>
 </tr>
+
 <tr>
-<td>⚙️</td>
-<td><strong>Backend Architecture</strong><br>Going deeper into APIs, services, databases, and application structure.</td>
+<td><strong>Database</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database Stack">
+
+</td>
 </tr>
+
 <tr>
-<td>🚀</td>
-<td><strong>Performance & Scalability</strong><br>Learning how to build applications that remain fast as they grow.</td>
+<td><strong>Languages</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=java,js,ts" alt="Programming Languages">
+
+</td>
+</tr>
+
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" alt="Developer Tools">
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Engineering Principles
+# 🚀 Featured Projects
 
-> **Question the abstraction.**
+<table>
+<tr>
 
-I prefer understanding the problem before reaching for a solution.
+<td width="50%" valign="top">
 
-> **Keep complexity intentional.**
+## 🌐 Portfolio Website
 
-Not every problem needs another library, layer, or abstraction.
+A modern developer portfolio designed to showcase projects, technical skills, and experience through a responsive interface.
 
-> **Build for change.**
+**Built with**
 
-Good code should be understandable today and adaptable tomorrow.
+`Next.js` `TypeScript` `Tailwind CSS`
 
-> **Learn by building.**
+<br>
 
-The fastest way to understand engineering concepts is to put them into practice.
+<a href="https://porfolio-eta-lilac.vercel.app/">
+<strong>Live Demo ↗</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce Store
+
+A full-stack e-commerce application focused on product browsing, user workflows, backend APIs, and persistent data.
+
+**Built with**
+
+`React` `Node.js` `Express` `MongoDB`
+
+<br>
+
+<a href="https://full-stack-1-x802.onrender.com/">
+<strong>Live Demo ↗</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### More Work
+
+| Project                                                 | Description                        | Stack             |
+| ------------------------------------------------------- | ---------------------------------- | ----------------- |
+| [Full-Stack](https://github.com/neelesh1097/full-stack) | Full-stack web application         | React · Node.js   |
+| [Crypto](https://github.com/neelesh1097/crypto)         | Cryptocurrency-focused application | React · APIs      |
+| [Movies](https://github.com/neelesh1097/movies)         | Movie discovery application        | React · APIs      |
+| [Meal API](https://github.com/neelesh1097/mealapi)      | API-driven web application         | JavaScript · APIs |
 
 ---
 
-## Beyond Code
+# 📊 GitHub Overview
 
-When I'm not building something, you'll probably find me exploring **anime, technology, new ideas, or another rabbit hole in software engineering.**
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### Repositories
+
+# 40+
+
+Public projects and experiments spanning frontend and full-stack development.
+
+</td>
+
+<td width="33%" align="center">
+
+### Contributions
+
+# Growing
+
+Consistently learning, building, and improving through code.
+
+</td>
+
+<td width="33%" align="center">
+
+### Focus
+
+# Full Stack
+
+Frontend · Backend · APIs · Databases · System Design
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Let's Connect
+# 🧠 Currently Learning
 
-I'm open to interesting engineering problems, collaboration, and opportunities to build useful products.
+<table>
+<tr>
+<td>
+
+**01 — Data Structures & Algorithms**
+
+Strengthening problem-solving and algorithmic thinking.
+
+</td>
+<td>
+
+**02 — System Design**
+
+Understanding how reliable and scalable systems are designed.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**03 — Backend Architecture**
+
+Going deeper into APIs, services, databases, and application structure.
+
+</td>
+<td>
+
+**04 — Performance**
+
+Learning how to build applications that remain fast as they grow.
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Engineering Principles
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Simplicity
+
+Prefer clear solutions over unnecessary complexity.
+
+</td>
+
+<td width="25%" align="center">
+
+### Maintainability
+
+Code should be understandable today and changeable tomorrow.
+
+</td>
+
+<td width="25%" align="center">
+
+### Performance
+
+Measure first. Optimize where it actually matters.
+
+</td>
+
+<td width="25%" align="center">
+
+### Learning
+
+Every project is an opportunity to become a better engineer.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to interesting engineering problems, collaborations, and opportunities to build useful products.
 
 <div align="center">
 
 <a href="https://porfolio-eta-lilac.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/neelesh1097">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -201,5 +352,10 @@ I'm open to interesting engineering problems, collaboration, and opportunities t
 
 ### Build. Learn. Question. Improve.
 
+<br>
+
+<sub>Designed & built by Neelesh</sub>
+
 </div>
+
 
