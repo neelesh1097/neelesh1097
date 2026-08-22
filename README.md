@@ -69,15 +69,23 @@ A full-stack e-commerce application built around a modern React + Node.js stack.
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Open to Opportunities
 
-<div align="center">
+I'm interested in:
+
+- Full-Stack Development
+- Frontend Engineering
+- Backend Development
+- Software Engineering Internships / Roles
+- Interesting open-source projects
+
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=neelesh1097&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" height="170" alt="GitHub statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelesh1097&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94A3B8&bg_color=00000000" height="170" alt="Top languages" />
 
-</div>
+</div> -->
 
 ---
 
