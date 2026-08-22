@@ -1,5 +1,5 @@
 ::: {align="center"}
-`<img src="./assets/hero-banner.png" alt="Neelesh — Full-Stack Developer" width="100%" />`{=html}
+`<img src="./hero-banner.png" alt="Neelesh — Full-Stack Developer" width="100%" />`{=html}
 
 # Hi, I'm Neelesh 👋
 
