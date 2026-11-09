@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.png" width="100%" alt="Neelesh Yadav — Divine Engineering" style="border-radius: 14px; max-width: 100%; box-shadow: 0 12px 36px rgba(0,0,0,0.08);">
+<img src="./hero-banner.png" width="100%" alt="Neelesh Yadav — Full-Stack Developer">
 
 <br><br>
 
