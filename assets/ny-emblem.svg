@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="embBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#FBF9F5"/>
+      <stop offset="100%" stop-color="#F1EBE0"/>
+    </linearGradient>
+
+    <linearGradient id="embGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDF6E2"/>
+      <stop offset="35%" stop-color="#E5CFA0"/>
+      <stop offset="70%" stop-color="#D6BD86"/>
+      <stop offset="100%" stop-color="#A88B50"/>
+    </linearGradient>
+
+    <linearGradient id="embSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#CBD5E1"/>
+      <stop offset="100%" stop-color="#94A3B8"/>
+    </linearGradient>
+
+    <filter id="embGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Circular Outer Medallion -->
+  <circle cx="150" cy="150" r="145" fill="url(#embBg)" stroke="#E9E7E2" stroke-width="2"/>
+  <circle cx="150" cy="150" r="136" fill="none" stroke="url(#embGold)" stroke-width="1.2" stroke-dasharray="2, 4" opacity="0.6"/>
+  <circle cx="150" cy="150" r="126" fill="none" stroke="url(#embSilver)" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="150" cy="150" r="110" fill="none" stroke="url(#embGold)" stroke-width="1.5" opacity="0.85"/>
+
+  <!-- Luminous Halo Crown -->
+  <ellipse cx="150" cy="72" rx="42" ry="10" fill="none" stroke="url(#embGold)" stroke-width="2.2" filter="url(#embGlow)"/>
+  <ellipse cx="150" cy="72" rx="34" ry="7" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+
+  <!-- Top 8-Pointed Star -->
+  <g transform="translate(150, 60)">
+    <polygon points="0,-10 2,-2.5 10,0 2,2.5 0,10 -2,2.5 -10,0 -2,-2.5" fill="url(#embGold)"/>
+    <circle cx="0" cy="0" r="1.5" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Letter 'N' -->
+  <g id="medN">
+    <rect x="98" y="102" width="9" height="106" rx="2" fill="url(#embGold)"/>
+    <path d="M 92,102 L 113,102 L 113,105 L 92,105 Z" fill="url(#embGold)"/>
+    <path d="M 92,205 L 113,205 L 113,208 L 92,208 Z" fill="url(#embGold)"/>
+    <rect x="146" y="102" width="9" height="106" rx="2" fill="url(#embGold)"/>
+    <polygon points="99,103 108,103 154,207 145,207" fill="url(#embGold)"/>
+  </g>
+
+  <!-- Letter 'Y' -->
+  <g id="medY">
+    <polygon points="163,102 173,102 196,152 186,152" fill="url(#embSilver)"/>
+    <polygon points="214,102 204,102 181,152 191,152" fill="url(#embSilver)"/>
+    <path d="M 158,102 L 176,102 L 176,104.5 L 158,104.5 Z" fill="url(#embSilver)"/>
+    <path d="M 201,102 L 219,102 L 219,104.5 L 201,104.5 Z" fill="url(#embSilver)"/>
+    <rect x="184" y="150" width="9" height="58" rx="2" fill="url(#embSilver)"/>
+    <path d="M 178,205.5 L 199,205.5 L 199,208 L 178,208 Z" fill="url(#embSilver)"/>
+  </g>
+
+  <!-- Central Celestial Sparkle -->
+  <g transform="translate(156, 153)">
+    <polygon points="0,-7 1.5,-1.8 7,0 1.5,1.8 0,7 -1.5,1.8 -7,0 -1.5,-1.8" fill="#FFFFFF" filter="url(#embGlow)"/>
+  </g>
+
+  <!-- Circular Outer Text Rim -->
+  <path id="textCircle" d="M 35,150 A 115,115 0 0,1 265,150" fill="none"/>
+  <text font-family="'Cinzel', 'Georgia', serif" font-size="9" font-weight="600" letter-spacing="4" fill="#D6BD86">
+    <textPath href="#textCircle" startOffset="50%" text-anchor="middle">DIVINE ENGINEERING</textPath>
+  </text>
+  
+  <text x="150" y="240" text-anchor="middle" font-family="'Cinzel', 'Georgia', serif" font-size="8.5" font-weight="600" letter-spacing="3" fill="#202329">NEELESH YADAV</text>
+  <text x="150" y="254" text-anchor="middle" font-family="'Inter', sans-serif" font-size="7" font-weight="500" letter-spacing="2" fill="#8B949E">EST. MMXXIV</text>
+</svg>
+
