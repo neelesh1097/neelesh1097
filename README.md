@@ -1,275 +1,310 @@
+<!-- ═══════════════════════════════════════════════════════════
+     DIVINE ENGINEERING — NEELESH YADAV — GITHUB PROFILE
+     Celestial Light Identity · White · Ivory · Champagne Gold
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="./hero-banner.png" width="100%" alt="Neelesh Yadav — Full-Stack Developer">
+<!-- ✦ HERO BANNER ✦ -->
+<img src="./assets/hero-banner-svg.svg" width="100%" alt="Neelesh Yadav — Divine Engineering">
 
 <br><br>
 
-<img src="./assets/ny-emblem.svg" width="84" alt="NY Celestial Monogram" style="margin-bottom: 8px;">
-
-# ✧ &nbsp; NEELESH YADAV &nbsp; ✧
-
-<p align="center">
-  <a href="https://github.com/neelesh1097">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&duration=3000&pause=1200&color=D6BD86&center=true&vCenter=true&width=720&lines=DIVINE+ENGINEERING+%E2%80%A2+CELESTIAL+IDENTITY;ARCHITECTING+RESILIENT+DISTRIBUTED+SYSTEMS;HIGH-THROUGHPUT+APIs+%E2%80%A2+SYSTEM+DESIGN;CRAFTING+ETERNAL+LOGIC+BEYOND+THE+ORDINARY" alt="Divine Engineering Typing Banner" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-SOFTWARE%20ENGINEER-D6BD86?style=for-the-badge&labelColor=202329" alt="Identity: Software Engineer">
-  <img src="https://img.shields.io/badge/DOMAIN-SYSTEMS%20%26%20ARCHITECTURE-BFC5CE?style=for-the-badge&labelColor=202329" alt="Domain: Systems & Architecture">
-  <img src="https://img.shields.io/badge/ORIGIN-INDIA%20%E2%9C%A6-F8F6F1?style=for-the-badge&labelColor=202329&color=D6BD86" alt="Origin: India">
-  <img src="https://img.shields.io/badge/SANCTUARY-OPEN%20FOR%20IMPACT-DDEBFA?style=for-the-badge&labelColor=202329&color=D6BD86" alt="Status: Open for Impact">
-</p>
-
-<p align="center">
-  <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20EXPERIENCE-D6BD86?style=for-the-badge&logo=vercel&logoColor=202329&labelColor=FFFFFF" alt="Portfolio Live">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH%20ALLIANCE-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=202329&labelColor=FFFFFF" alt="LinkedIn Alliance">
-  </a>
-  &nbsp;
-  <a href="https://github.com/neelesh1097?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-SOURCE%20VAULT-202329?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=D6BD86" alt="GitHub Repositories">
-  </a>
-  &nbsp;
-  <a href="https://komarev.com/ghpvc/?username=neelesh1097&color=D6BD86&style=for-the-badge&label=SANCTUARY%20VISITORS" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=neelesh1097&color=D6BD86&style=for-the-badge&label=SANCTUARY%20VISITORS" alt="Visitor Counter">
-  </a>
-</p>
+<!-- ✦ NY SEAL ✦ -->
+<img src="./assets/ny-emblem.svg" width="90" alt="NY Celestial Emblem">
 
 <br>
 
-<img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+# NEELESH YADAV
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1200&color=A88B50&center=true&vCenter=true&width=720&lines=Engineering+Beyond+the+Ordinary;Full-Stack+Engineer+%E2%80%A2+System+Architect;Distributed+Systems+%E2%80%A2+Backend+%E2%80%A2+APIs;Crafting+Luminous+Logic+from+First+Principles" alt="Celestial Tagline">
+
+<br>
+
+<!-- ✦ IDENTITY BADGES — Light Celestial Palette ✦ -->
+<img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%26%20Systems-D6BD86?style=flat-square&labelColor=F8F6F1&color=A88B50" alt="Role">
+&nbsp;
+<img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-BFC5CE?style=flat-square&labelColor=F8F6F1&color=8B9CB0" alt="Specialization">
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India-D6BD86?style=flat-square&labelColor=F8F6F1&color=A88B50" alt="India">
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-A3C4A0?style=flat-square&labelColor=F8F6F1&color=5A8C5A" alt="Open">
+
+<br><br>
+
+<!-- ✦ ACTION LINKS — Champagne / Ivory Palette ✦ -->
+<a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✦%20Portfolio-Explore%20Live-D6BD86?style=for-the-badge&logoColor=202329&labelColor=F5F1E8" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
+  <img src="https://img.shields.io/badge/✦%20LinkedIn-Connect-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=1A1A2E&labelColor=EEF2F7" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/neelesh1097?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/✦%20GitHub-Repository%20Vault-E9E7E2?style=for-the-badge&logo=github&logoColor=202329&labelColor=F5F1E8" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://komarev.com/ghpvc/?username=neelesh1097" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=neelesh1097&color=D6BD86&style=flat-square&label=Visitors" alt="Profile Views">
+</a>
+
+<br><br>
+
+<img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 
 </div>
 
 <br>
 
-## ✦ &nbsp; I. THE ARCHITECTURE OF INTENT
+---
 
-<img src="./profile.png" width="165" align="right" alt="Neelesh Yadav" style="border-radius: 16px; margin: 0 0 20px 24px; border: 1px solid #E9E7E2; box-shadow: 0 8px 24px rgba(0,0,0,0.06);">
+## &nbsp; ✦ &nbsp; I &nbsp;·&nbsp; The Architecture of Intent
 
-I am a **Software Engineer** dedicated to building web systems of enduring quality, resilient backend architecture, and seamless digital experiences. I approach software engineering as modern digital cathedral-building: sculptured from mathematical logic, engineered for enduring permanence, and elevated through immaculate architectural discipline.
+<img src="./profile.png" width="160" align="right" alt="Neelesh Yadav"
+  style="border-radius: 50%; margin: 0 0 20px 28px; border: 2px solid #E9E7E2;">
 
-Moving beyond isolated feature delivery, my engineering focus centers on **scalable system design, relational and document data modeling, API reliability, and asymptotic performance optimization**. I treat code as a craft—balancing developer ergonomics with runtime efficiency, enforcing strict type safety from database to client, and creating modular codebases built to adapt and scale.
+I am a **Software Engineer** dedicated to building web systems of enduring quality, resilient backend architecture, and seamless digital experiences. I approach engineering as modern cathedral-building: sculpted from mathematical logic, elevated through architectural discipline, and built to endure.
 
-### ⚜️ Core Engineering Pillars
+My focus has evolved beyond feature delivery toward **system design, data modeling, API reliability, and performance engineering**. I write code as a craft — balancing developer ergonomics with runtime efficiency, enforcing strict type safety from database to client.
 
-- ◈ **Distributed & Backend Architecture:** Designing high-concurrency RESTful APIs, transactional state workflows, authentication mechanisms (JWT/OAuth), and optimized database pipelines.
-- ◈ **Modern Frontend Architecture:** Building declarative, sub-second web applications leveraging Next.js (App Router), React, Redux Toolkit, and atomic component hierarchies.
-- ◈ **Algorithmic Rigor & Data Structures:** Solid foundation in Java and TypeScript problem solving, analyzing time and space complexities ($O(1)$, $O(\log n)$, $O(n)$) to prevent architectural bottlenecks.
-- ◈ **DevOps & Infrastructure:** Containerized workflows with Docker, automated CI/CD deployment pipelines (Vercel, Render), clean separation of environments, and defensive error handling.
+<br>
+
+**Core Engineering Pillars:**
+
+◈ &nbsp;**Backend & Distributed Architecture** — High-concurrency RESTful APIs, transactional state workflows, JWT/OAuth, optimized database pipelines  
+◈ &nbsp;**Frontend Architecture** — Next.js App Router, React, Redux Toolkit, atomic component hierarchies, sub-second rendering  
+◈ &nbsp;**Algorithmic Rigor** — Java & TypeScript DSA, time/space complexity analysis, preventing architectural bottlenecks  
+◈ &nbsp;**DevOps & Infrastructure** — Docker, automated CI/CD (Vercel, Render), environment separation, error resilience
 
 <br clear="right">
 
-> *"Software at the highest echelon is not mere instruction; it is architecture sculpted from logic, enduring as marble, luminous as light."*
+> *"Software at the highest echelon is not mere instruction — it is architecture sculpted from logic, enduring as marble, luminous as light."*
 
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; II. THE PILLARS OF MASTERY
+---
 
-| Architectural Domain | Core Specialization | Engineering Standards & Methodologies |
+## &nbsp; ✦ &nbsp; II &nbsp;·&nbsp; Pillars of Mastery
+
+| &nbsp;Domain | &nbsp;Core Specialization | &nbsp;Standards & Methodologies |
 | :--- | :--- | :--- |
-| **Backend & Distributed Systems** | Scalable RESTful Services, MVC / Service-Repository Layers | Defensive Input Validation, Rate Limiting, Error Middleware, Connection Pooling |
-| **Data Architecture & Schemas** | MongoDB, Mongoose, Relational & Document Modeling | Compound Indexing, Aggregation Frameworks, Atomic Updates, Query Optimization |
-| **Frontend Systems & DX** | Next.js (App Router), React, Declarative State Management | Edge Rendering, SSR, Component Modularization, Strict Responsive UX |
-| **Algorithmic Foundation** | Data Structures & Algorithms, Object-Oriented Design (Java) | Asymptotic Complexity Analysis, SOLID Principles, Clean Abstractions |
-| **DevOps & Infrastructure** | Containerization, Cloud Deployment, Version Control | Docker Containers, Git Feature Branching, Automated CI/CD, Postman API Testing |
-
-<br>
+| **Backend & APIs** | Scalable RESTful Services, MVC / Service-Repository Architecture | Input Validation, Rate Limiting, Error Middleware, Connection Pooling |
+| **Data Architecture** | MongoDB, Mongoose, Document & Relational Schema Design | Compound Indexing, Aggregation Frameworks, Atomic Updates, Query Optimization |
+| **Frontend Systems** | Next.js 14 App Router, React, Declarative State Management | Edge Rendering, SSR, Component Modularization, Responsive UX |
+| **Algorithmic Foundation** | Data Structures & Algorithms, Object-Oriented Design (Java) | Asymptotic Complexity, SOLID Principles, Clean Abstractions |
+| **DevOps & Cloud** | Containerization, Cloud Deployment, Version Control | Docker, Git Branching, Automated CI/CD, Postman API Testing |
 
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; III. TECHNICAL ARSENAL
+---
+
+## &nbsp; ✦ &nbsp; III &nbsp;·&nbsp; Technical Arsenal
+
+<div align="center">
+
+**Languages & Runtimes**
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css&theme=light" alt="Languages">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=light" alt="Backend">
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap&theme=light" alt="Frontend">
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel&theme=light" alt="DevOps">
+
+</div>
+
+<br>
 
 <table width="100%">
   <tr>
-    <td width="30%"><strong>Languages & Runtime</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css" alt="Languages and Runtimes">
-      <br>
-      <code>TypeScript</code> · <code>JavaScript (ESNext)</code> · <code>Java (Core & DSA)</code> · <code>Node.js</code>
-    </td>
+    <td width="30%" valign="top"><strong>Languages</strong></td>
+    <td><code>TypeScript</code> &nbsp;·&nbsp; <code>JavaScript (ESNext)</code> &nbsp;·&nbsp; <code>Java (Core + DSA)</code> &nbsp;·&nbsp; <code>Node.js</code></td>
   </tr>
   <tr>
-    <td><strong>Backend & Data Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend and Database Stack">
-      <br>
-      <code>Express.js</code> · <code>REST APIs</code> · <code>MongoDB</code> · <code>Mongoose ORM</code> · <code>JWT Authentication</code>
-    </td>
+    <td valign="top"><strong>Backend & Data</strong></td>
+    <td><code>Express.js</code> &nbsp;·&nbsp; <code>REST APIs</code> &nbsp;·&nbsp; <code>MongoDB</code> &nbsp;·&nbsp; <code>Mongoose ORM</code> &nbsp;·&nbsp; <code>JWT Auth</code></td>
   </tr>
   <tr>
-    <td><strong>Frontend & UI Systems</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap" alt="Frontend Stack">
-      <br>
-      <code>Next.js (App Router)</code> · <code>React.js</code> · <code>Redux Toolkit</code> · <code>Tailwind CSS</code>
-    </td>
+    <td valign="top"><strong>Frontend</strong></td>
+    <td><code>Next.js (App Router)</code> &nbsp;·&nbsp; <code>React.js</code> &nbsp;·&nbsp; <code>Redux Toolkit</code> &nbsp;·&nbsp; <code>Tailwind CSS</code></td>
   </tr>
   <tr>
-    <td><strong>DevOps, Cloud & Tooling</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel" alt="DevOps and Tools">
-      <br>
-      <code>Docker</code> · <code>Git & GitHub Actions</code> · <code>Vercel</code> · <code>Render</code> · <code>Linux / Bash</code>
-    </td>
+    <td valign="top"><strong>DevOps</strong></td>
+    <td><code>Docker</code> &nbsp;·&nbsp; <code>Git + GitHub Actions</code> &nbsp;·&nbsp; <code>Vercel</code> &nbsp;·&nbsp; <code>Render</code> &nbsp;·&nbsp; <code>Linux / Bash</code></td>
   </tr>
 </table>
 
-<br>
-
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; IV. MONUMENTAL CREATIONS
+---
 
-### 01 · Full-Stack E-Commerce Engine & Order Platform
-> *An end-to-end distributed commerce application built with full data persistence, secure authorization, product aggregation pipelines, and atomic cart operations.*
+## &nbsp; ✦ &nbsp; IV &nbsp;·&nbsp; Monumental Creations
 
-- **Architecture:** Decoupled client-server architecture with RESTful endpoints, role-based JWT auth, and protected middleware layers.
-- **Key Capabilities:** Dynamic catalog filtering, MongoDB aggregation pipelines, persistent cart lifecycle, and cloud deployment.
-- **Technologies:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Render`
-- **Access:** **[Live Deployment →](https://full-stack-1-x802.onrender.com/)** &nbsp;•&nbsp; **[Source Code Vault →](https://github.com/neelesh1097/full-stack)**
+### &nbsp;&nbsp; 01 &nbsp;—&nbsp; Full-Stack E-Commerce Engine
 
-<br>
+> An end-to-end distributed commerce platform with secure authorization, product aggregation, and atomic cart operations.
 
-### 02 · High-Throughput URL Shortener & Redirect Service
-> *A scalable backend service designed for high read-to-write ratios, rapid key-hashing redirection, and request analytics logging.*
-
-- **Architecture:** Collision-resistant key generation algorithms, parameterized route handling, and database indexing for sub-millisecond query lookups.
-- **Key Capabilities:** Click telemetry, TTL expiration, parameterized redirection, and clean input sanitization.
-- **Technologies:** `Node.js` · `Express.js` · `MongoDB` · `REST API`
-- **Access:** **[Source Code Vault →](https://github.com/neelesh1097/urlshortner)**
+&nbsp;&nbsp;◈ &nbsp;**Architecture:** Decoupled REST API, role-based JWT auth, protected middleware layers  
+&nbsp;&nbsp;◈ &nbsp;**Key Capabilities:** Dynamic catalog filtering, MongoDB aggregation pipelines, persistent cart lifecycle  
+&nbsp;&nbsp;◈ &nbsp;**Stack:** `React` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Render`  
+&nbsp;&nbsp;◈ &nbsp;**Access:** **[Live Deployment →](https://full-stack-1-x802.onrender.com/)** &nbsp;•&nbsp; **[Source Code →](https://github.com/neelesh1097/full-stack)**
 
 <br>
 
-### 03 · Concurrent Ticket Reservation Engine
-> *A reservation workflow system engineered with state-machine patterns to model seat availability and prevent race-condition overbooking.*
+### &nbsp;&nbsp; 02 &nbsp;—&nbsp; High-Throughput URL Shortener
 
-- **Architecture:** Strict transactional status transitions (`Reserved` → `Held` → `Confirmed` / `Expired`) with synchronized API contracts.
-- **Key Capabilities:** Conflict resolution, inventory reservation holds, and modular service-layer separation.
-- **Technologies:** `TypeScript` · `Node.js` · `Express.js` · `REST APIs`
-- **Access:** **[Source Code Vault →](https://github.com/neelesh1097/ticket)**
+> A scalable backend service engineered for high read-to-write ratios, rapid key-hash redirection, and analytics logging.
+
+&nbsp;&nbsp;◈ &nbsp;**Architecture:** Collision-resistant key generation, parameterized routing, indexed sub-millisecond lookups  
+&nbsp;&nbsp;◈ &nbsp;**Key Capabilities:** Click telemetry, TTL expiration, clean input sanitization  
+&nbsp;&nbsp;◈ &nbsp;**Stack:** `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `REST API`  
+&nbsp;&nbsp;◈ &nbsp;**Access:** **[Source Code →](https://github.com/neelesh1097/urlshortner)**
+
+<br>
+
+### &nbsp;&nbsp; 03 &nbsp;—&nbsp; Concurrent Ticket Reservation Engine
+
+> A reservation system built with state-machine patterns to model seat availability and prevent race-condition overbooking.
+
+&nbsp;&nbsp;◈ &nbsp;**Architecture:** Strict transactional status transitions (`Reserved → Held → Confirmed / Expired`)  
+&nbsp;&nbsp;◈ &nbsp;**Key Capabilities:** Conflict resolution, inventory holds, modular service-layer separation  
+&nbsp;&nbsp;◈ &nbsp;**Stack:** `TypeScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Express.js` &nbsp;·&nbsp; `REST APIs`  
+&nbsp;&nbsp;◈ &nbsp;**Access:** **[Source Code →](https://github.com/neelesh1097/ticket)**
 
 <br>
 
-### 04 · Modern Developer Portfolio & Digital Showcase
-> *High-performance digital portfolio engineered with Next.js 14 App Router, dynamic typography, and automated edge deployment.*
+### &nbsp;&nbsp; 04 &nbsp;—&nbsp; Developer Portfolio & Digital Showcase
 
-- **Architecture:** Edge-rendered static-site generation (SSG) with optimized Lighthouse scores and strict TypeScript type boundaries.
-- **Key Capabilities:** Responsive micro-interactions, dark-mode design system, and seamless CDN asset caching.
-- **Technologies:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Vercel`
-- **Access:** **[Live Deployment →](https://porfolio-eta-lilac.vercel.app/)** &nbsp;•&nbsp; **[Source Code Vault →](https://github.com/neelesh1097/porfolio)**
+> High-performance digital portfolio with Next.js 14 App Router, optimized Lighthouse scores, and edge deployment.
 
-<br>
+&nbsp;&nbsp;◈ &nbsp;**Architecture:** Edge-rendered SSG, strict TypeScript type boundaries, CDN asset caching  
+&nbsp;&nbsp;◈ &nbsp;**Key Capabilities:** Responsive micro-interactions, dark-mode design system  
+&nbsp;&nbsp;◈ &nbsp;**Stack:** `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Vercel`  
+&nbsp;&nbsp;◈ &nbsp;**Access:** **[Live Deployment →](https://porfolio-eta-lilac.vercel.app/)** &nbsp;•&nbsp; **[Source Code →](https://github.com/neelesh1097/porfolio)**
 
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; V. THE CODEX OF REPOSITORIES
+---
 
-| Project | Engineering Scope | Core Technologies | Repository |
+## &nbsp; ✦ &nbsp; V &nbsp;·&nbsp; Repository Codex
+
+| Project | Engineering Scope | Technologies | Repository |
 | :--- | :--- | :--- | :---: |
-| **Food Delivery Engine** | Multi-role platform: consumer cart, vendor order dispatch, real-time status | `React` · `Node.js` · `Express` · `MongoDB` | [Inspect Code →](https://github.com/neelesh1097/food-delivery) |
-| **Finance Tracker** | Ledger management, multi-account expense categorization & balance calculations | `JavaScript` · `React` · `Tailwind CSS` | [Inspect Code →](https://github.com/neelesh1097/finance-tracker) |
-| **Social Network Platform** | Feed aggregation, user relationships, post interactions & secure authentication | `React` · `Node.js` · `Express` · `MongoDB` | [Inspect Code →](https://github.com/neelesh1097/social-media) |
-| **Crypto Market Analytics** | Real-time market data ingestion, API rate-handling & interactive financial charts | `React` · `CoinGecko REST API` · `Tailwind CSS` | [Inspect Code →](https://github.com/neelesh1097/crypto) |
-| **Java DSA & Algorithms** | Algorithmic problem solving: Trees, Graphs, DP, Sorting & Space/Time optimization | `Java` · `Data Structures` · `Algorithms` | [Inspect Code →](https://github.com/neelesh1097/Java-prep) |
-| **Backend Revision Vault** | Architecture notes, design patterns, microservices concepts & API security | `Node.js` · `Express` · `System Design` | [Inspect Code →](https://github.com/neelesh1097/Backend-revision) |
-
-<br>
+| **Food Delivery Engine** | Multi-role platform: cart, vendor dispatch, order status | `React` · `Node.js` · `Express` · `MongoDB` | [→](https://github.com/neelesh1097/food-delivery) |
+| **Finance Tracker** | Ledger management, expense categorization & balance calculations | `JavaScript` · `React` · `Tailwind CSS` | [→](https://github.com/neelesh1097/finance-tracker) |
+| **Social Network Platform** | Feed aggregation, user relationships & secure authentication | `React` · `Node.js` · `Express` · `MongoDB` | [→](https://github.com/neelesh1097/social-media) |
+| **Crypto Market Analytics** | Real-time market data, API handling & interactive charts | `React` · `CoinGecko API` · `Tailwind CSS` | [→](https://github.com/neelesh1097/crypto) |
+| **Java DSA & Algorithms** | Trees, Graphs, DP, Sorting & complexity optimization | `Java` · `Data Structures` · `Algorithms` | [→](https://github.com/neelesh1097/Java-prep) |
+| **Backend Revision Vault** | Architecture notes, design patterns, microservices & API security | `Node.js` · `Express` · `System Design` | [→](https://github.com/neelesh1097/Backend-revision) |
 
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; VI. CELESTIAL HORIZONS & TRAJECTORY
+---
 
-```text
-DIVINE UPSKILLING & ARCHITECTURAL FOCUS
-├── 01. Distributed Systems     ──> Message Queues (Kafka / RabbitMQ), In-Memory Caching (Redis), Eventual Consistency
-├── 02. Advanced System Design  ──> Sharding, Read-Replicas, CAP Theorem trade-offs, Rate Limiting (Token Bucket)
-├── 03. Algorithmic Mastery     ──> Advanced Graph Algorithms, Dynamic Programming, Heap/Trie Structures in Java
-└── 04. Cloud & DevOps Pipeline ──> Docker Multi-stage Builds, CI/CD Pipeline Automation, Observability & Telemetry
+## &nbsp; ✦ &nbsp; VI &nbsp;·&nbsp; Celestial Horizons
+
+```
+ ACTIVE DEEP-DIVES & ARCHITECTURAL FOCUS
+ ┌─────────────────────────────────────────────────────────────────────────────────┐
+ │  01  Distributed Systems    ──→  Kafka · RabbitMQ · Redis · Eventual Consistency │
+ │  02  Advanced System Design ──→  Sharding · Read Replicas · CAP · Token Bucket  │
+ │  03  Algorithmic Mastery    ──→  Graph Algorithms · DP · Heaps · Tries in Java  │
+ │  04  Cloud & DevOps         ──→  Docker Multi-stage · CI/CD · Observability     │
+ └─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br>
-
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; VII. THE CELESTIAL CODEX
+---
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                 THE DIVINE ENGINEERING CODEX                                │
-├─────────────────────────────────────────────────────────────────────────────────────────────┤
-│  ✧ I.  ABSTRACTION HYGIENE  →  Never abstract prematurely; duplication is cheaper than the   │
-│                                wrong abstraction. Clarity is the highest virtue of logic.   │
-│                                                                                             │
-│  ✧ II. MEASURED HARMONY     →  Measure before optimizing. Know your algorithmic bounds,     │
-│                                indexing topologies, and cache invalidation mechanics.       │
-│                                                                                             │
-│  ✧ III. ARCHITECTURAL TRUTH →  Validate at every boundary. Make illegal states unrepresentable│
-│                                through strict types and immutable data contracts.           │
-│                                                                                             │
-│  ✧ IV. ETERNAL STEWARDSHIP  →  True engineering ownership extends from the initial diagram  │
-│                                to the final second of high-concurrency production uptime.   │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
+## &nbsp; ✦ &nbsp; VII &nbsp;·&nbsp; The Divine Engineering Codex
+
+```
+ ┌─────────────────────────────────────────────────────────────────────────────────────┐
+ │                         THE DIVINE ENGINEERING CODEX                                │
+ ├─────────────────────────────────────────────────────────────────────────────────────┤
+ │                                                                                     │
+ │  ✧  ABSTRACTION HYGIENE   →  Never abstract prematurely. Duplication is cheaper    │
+ │                               than the wrong abstraction. Clarity above all.       │
+ │                                                                                     │
+ │  ✧  MEASURED PERFORMANCE  →  Measure first, then optimize. Know your algorithmic   │
+ │                               bounds, indexing topology, and cache mechanics.      │
+ │                                                                                     │
+ │  ✧  ARCHITECTURAL TRUTH   →  Validate at every boundary. Make illegal states      │
+ │                               unrepresentable through strict types and schemas.    │
+ │                                                                                     │
+ │  ✧  ETERNAL STEWARDSHIP   →  Ownership extends from the first architecture diagram │
+ │                               to the last second of production uptime.             │
+ │                                                                                     │
+ └─────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<br>
-
 <div align="center">
-  <img src="./assets/celestial-divider.svg" width="100%" alt="Celestial Divider">
+  <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
 </div>
 
 <br>
 
-## ✦ &nbsp; VIII. ESTABLISH ALLIANCE
+---
 
-Whether you are exploring **distributed system architecture, backend scalability, full-stack development, or high-impact software engineering opportunities**, the sanctuary is always open.
+## &nbsp; ✦ &nbsp; VIII &nbsp;·&nbsp; Establish Alliance
+
+Whether you are exploring **distributed architecture, backend scalability, full-stack development, or high-impact engineering roles** — the sanctuary is always open.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20NEELESH-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=202329&labelColor=FFFFFF" alt="LinkedIn Alliance">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Neelesh-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=1A1A2E&labelColor=EEF2F7" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20INTERACTIVE%20SHOWCASE-D6BD86?style=for-the-badge&logo=vercel&logoColor=202329&labelColor=FFFFFF" alt="Portfolio Live">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Showcase-D6BD86?style=for-the-badge&logo=vercel&logoColor=202329&labelColor=F5F1E8" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://github.com/neelesh1097" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ACTIVITY-202329?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=D6BD86" alt="GitHub Activity">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Activity-E9E7E2?style=for-the-badge&logo=github&logoColor=202329&labelColor=F5F1E8" alt="GitHub">
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="./assets/ny-emblem.svg" width="54" alt="NY Seal" style="margin-bottom: 6px;">
-  <br>
-  <sub>Divinely engineered by <strong>Neelesh Yadav</strong> · Crafted with architectural discipline & celestial precision · <em>Ad Astra Per Aspera</em></sub>
+  <img src="./assets/ny-emblem.svg" width="58" alt="NY Seal">
+  <br><br>
+  <sub>
+    Divinely engineered by <strong>Neelesh Yadav</strong>
+    &nbsp;·&nbsp; Crafted with architectural discipline &amp; celestial precision
+    &nbsp;·&nbsp; <em>Ad Astra Per Aspera</em>
+  </sub>
 </div>

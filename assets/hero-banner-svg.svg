@@ -1,0 +1,277 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%">
+  <defs>
+    <!-- Sky Gradient — Pure heavenly whites fading to icy blue horizon -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="45%"  stop-color="#F5F8FF"/>
+      <stop offset="80%"  stop-color="#E8F3FD"/>
+      <stop offset="100%" stop-color="#DDEBFA"/>
+    </linearGradient>
+
+    <!-- Champagne gold gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FDF6E2"/>
+      <stop offset="40%"  stop-color="#E5CFA0"/>
+      <stop offset="75%"  stop-color="#D6BD86"/>
+      <stop offset="100%" stop-color="#A88B50"/>
+    </linearGradient>
+
+    <!-- Pearl silver gradient -->
+    <linearGradient id="silverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="50%"  stop-color="#E2E8F0"/>
+      <stop offset="100%" stop-color="#BFC5CE"/>
+    </linearGradient>
+
+    <!-- Soft horizontal fade for text panel -->
+    <linearGradient id="panelFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#FAF8F5" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#F5F1E8" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- God-ray fade -->
+    <linearGradient id="rayGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"  stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Wing ivory sheen -->
+    <linearGradient id="wingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="60%"  stop-color="#F0EDE6"/>
+      <stop offset="100%" stop-color="#D6BD86" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Soft glow filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Halo glow -->
+    <filter id="haloGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Code particle glow -->
+    <filter id="codeGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft drop shadow -->
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#C8B89A" flood-opacity="0.14"/>
+    </filter>
+
+    <!-- Cloud blur -->
+    <filter id="cloudBlur" x="-5%" y="-5%" width="110%" height="130%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- === BACKGROUND === -->
+  <rect width="1200" height="420" fill="url(#skyGrad)"/>
+
+  <!-- Soft cloud wisps — bottom left -->
+  <ellipse cx="80"  cy="380" rx="140" ry="38" fill="#FFFFFF" opacity="0.72" filter="url(#cloudBlur)"/>
+  <ellipse cx="210" cy="395" rx="110" ry="28" fill="#EEEAF3" opacity="0.6"  filter="url(#cloudBlur)"/>
+  <ellipse cx="350" cy="405" rx="90"  ry="22" fill="#FFFFFF" opacity="0.55" filter="url(#cloudBlur)"/>
+
+  <!-- Soft cloud wisps — bottom right -->
+  <ellipse cx="1120" cy="375" rx="135" ry="36" fill="#FFFFFF" opacity="0.7"  filter="url(#cloudBlur)"/>
+  <ellipse cx="980"  cy="398" rx="105" ry="26" fill="#EAF1FA" opacity="0.58" filter="url(#cloudBlur)"/>
+  <ellipse cx="850"  cy="410" rx="80"  ry="20" fill="#FFFFFF" opacity="0.5"  filter="url(#cloudBlur)"/>
+
+  <!-- Upper clouds -->
+  <ellipse cx="90"  cy="60"  rx="90"  ry="22" fill="#FFFFFF" opacity="0.55" filter="url(#cloudBlur)"/>
+  <ellipse cx="1100" cy="50" rx="85"  ry="20" fill="#FFFFFF" opacity="0.5"  filter="url(#cloudBlur)"/>
+  <ellipse cx="600"  cy="30" rx="120" ry="16" fill="#FFFFFF" opacity="0.4"  filter="url(#cloudBlur)"/>
+
+  <!-- === GOD RAYS from crown === -->
+  <g opacity="0.18">
+    <polygon points="380,0 390,0 310,420 300,420" fill="url(#rayGrad)"/>
+    <polygon points="405,0 415,0 350,420 338,420" fill="url(#rayGrad)"/>
+    <polygon points="430,0 440,0 390,420 378,420" fill="url(#rayGrad)"/>
+    <polygon points="455,0 465,0 430,420 418,420" fill="url(#rayGrad)"/>
+    <polygon points="358,0 368,0 272,420 260,420" fill="url(#rayGrad)"/>
+    <polygon points="335,0 345,0 240,420 228,420" fill="url(#rayGrad)"/>
+  </g>
+
+  <!-- === MARBLE COLUMN — left background === -->
+  <rect x="60"  y="80"  width="34" height="340" rx="6" fill="#F5F3EE" opacity="0.65"/>
+  <rect x="58"  y="80"  width="38" height="10"  rx="3" fill="#E9E5DC" opacity="0.7"/>
+  <rect x="58"  y="410" width="38" height="10"  rx="3" fill="#E9E5DC" opacity="0.7"/>
+  <rect x="118" y="90"  width="28" height="330" rx="5" fill="#F5F3EE" opacity="0.5"/>
+  <rect x="116" y="90"  width="32" height="9"   rx="3" fill="#E9E5DC" opacity="0.6"/>
+
+  <!-- === MARBLE COLUMN — right background === -->
+  <rect x="1108" y="80"  width="34" height="340" rx="6" fill="#F5F3EE" opacity="0.65"/>
+  <rect x="1106" y="80"  width="38" height="10"  rx="3" fill="#E9E5DC" opacity="0.7"/>
+  <rect x="1106" y="410" width="38" height="10"  rx="3" fill="#E9E5DC" opacity="0.7"/>
+  <rect x="1055" y="95"  width="28" height="315" rx="5" fill="#F5F3EE" opacity="0.48"/>
+
+  <!-- === CIRCUIT TRACES — right side, floating code aesthetic === -->
+  <g opacity="0.45" filter="url(#codeGlow)">
+    <!-- Horizontal bars -->
+    <rect x="740" y="90"  width="80"  height="1.5" rx="1" fill="#D6BD86"/>
+    <rect x="760" y="102" width="60"  height="1.5" rx="1" fill="#BFC5CE"/>
+    <rect x="740" y="114" width="90"  height="1.5" rx="1" fill="#D6BD86"/>
+    <rect x="780" y="126" width="40"  height="1.5" rx="1" fill="#A88B50"/>
+    <!-- Vertical connectors -->
+    <rect x="740" y="90"  width="1.5" height="36"  rx="1" fill="#D6BD86"/>
+    <rect x="830" y="90"  width="1.5" height="25"  rx="1" fill="#BFC5CE"/>
+    <!-- Dot nodes -->
+    <circle cx="740" cy="90"  r="3" fill="#D6BD86"/>
+    <circle cx="830" cy="90"  r="3" fill="#D6BD86"/>
+    <circle cx="780" cy="126" r="3" fill="#BFC5CE"/>
+    <circle cx="740" cy="126" r="3" fill="#A88B50"/>
+    <!-- More circuit lines -->
+    <rect x="800" y="155" width="100" height="1.5" rx="1" fill="#D6BD86" opacity="0.7"/>
+    <rect x="820" y="167" width="70"  height="1.5" rx="1" fill="#BFC5CE" opacity="0.7"/>
+    <rect x="800" y="167" width="1.5" height="30"  rx="1" fill="#D6BD86" opacity="0.7"/>
+    <circle cx="800" cy="155" r="2.5" fill="#D6BD86" opacity="0.8"/>
+    <circle cx="900" cy="155" r="2.5" fill="#D6BD86" opacity="0.8"/>
+    <!-- Code block hint -->
+    <rect x="840" y="195" width="130" height="1.2" rx="1" fill="#A88B50" opacity="0.5"/>
+    <rect x="855" y="204" width="100" height="1.2" rx="1" fill="#BFC5CE" opacity="0.5"/>
+    <rect x="855" y="213" width="115" height="1.2" rx="1" fill="#A88B50" opacity="0.5"/>
+    <rect x="855" y="222" width="85"  height="1.2" rx="1" fill="#BFC5CE" opacity="0.4"/>
+    <rect x="840" y="195" width="1.2" height="38"  rx="1" fill="#A88B50" opacity="0.5"/>
+
+    <!-- Left side subtle circuit -->
+    <rect x="150" y="200" width="70"  height="1.5" rx="1" fill="#D6BD86" opacity="0.4"/>
+    <rect x="162" y="212" width="50"  height="1.5" rx="1" fill="#BFC5CE" opacity="0.4"/>
+    <rect x="150" y="200" width="1.5" height="25"  rx="1" fill="#D6BD86" opacity="0.4"/>
+    <circle cx="150" cy="200" r="2" fill="#D6BD86" opacity="0.5"/>
+    <circle cx="220" cy="200" r="2" fill="#D6BD86" opacity="0.5"/>
+  </g>
+
+  <!-- === FLOATING API CODE SNIPPETS — subtle === -->
+  <g font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9" fill="#A88B50" opacity="0.38" filter="url(#codeGlow)">
+    <text x="790" y="88">GET /api/v1/systems</text>
+    <text x="810" y="162">{ status: 200,</text>
+    <text x="822" y="172">  data: celestial }</text>
+    <text x="845" y="250">const architect = () =></text>
+    <text x="855" y="261">  buildEternal();</text>
+    <text x="808" y="318">POST /auth/divine</text>
+  </g>
+
+  <!-- === CELESTIAL SPARKLE PARTICLES === -->
+  <g fill="#D6BD86" filter="url(#glow)">
+    <polygon points="680,55  682,50 684,55 682,60" opacity="0.7"/>
+    <polygon points="750,30  752,25 754,30 752,35" opacity="0.55"/>
+    <polygon points="720,75  723,68 726,75 723,82" opacity="0.5"/>
+    <polygon points="940,80  942,75 944,80 942,85" opacity="0.5"/>
+    <polygon points="980,45  982,40 984,45 982,50" opacity="0.6"/>
+    <polygon points="890,30  893,24 896,30 893,36" opacity="0.45"/>
+    <polygon points="168,140 170,135 172,140 170,145" opacity="0.4"/>
+    <polygon points="130,170 132,165 134,170 132,175" opacity="0.35"/>
+  </g>
+
+  <!-- === ANGELIC FIGURE === -->
+  <!-- Left great wing — back layer -->
+  <path d="M 310,290 C 230,250 150,200 110,140 C 130,145 170,165 200,195 C 170,160 160,120 180,90 C 195,105 215,145 225,185 C 210,150 215,110 240,90 C 250,110 260,150 258,185 C 255,155 265,120 285,105 C 288,130 285,165 275,190 C 285,170 295,145 310,135 C 310,160 305,190 290,210 Z"
+        fill="url(#wingGrad)" opacity="0.85" filter="url(#softShadow)"/>
+  <!-- Left wing — mid layer with feather details -->
+  <path d="M 320,310 C 255,275 190,235 160,185 C 178,190 205,210 225,238 C 205,210 200,175 215,152 C 228,165 240,196 242,225 C 240,198 248,168 265,152 C 272,170 274,202 268,228 C 272,205 283,178 298,165 C 300,185 298,215 285,235 Z"
+        fill="#FDFCFA" opacity="0.9" filter="url(#softShadow)"/>
+
+  <!-- Right great wing — back layer -->
+  <path d="M 490,290 C 570,250 650,200 690,140 C 670,145 630,165 600,195 C 630,160 640,120 620,90 C 605,105 585,145 575,185 C 590,150 585,110 560,90 C 550,110 540,150 542,185 C 545,155 535,120 515,105 C 512,130 515,165 525,190 C 515,170 505,145 490,135 C 490,160 495,190 510,210 Z"
+        fill="url(#wingGrad)" opacity="0.85" filter="url(#softShadow)"/>
+  <!-- Right wing — mid layer -->
+  <path d="M 480,310 C 545,275 610,235 640,185 C 622,190 595,210 575,238 C 595,210 600,175 585,152 C 572,165 560,196 558,225 C 560,198 552,168 535,152 C 528,170 526,202 532,228 C 528,205 517,178 502,165 C 500,185 502,215 515,235 Z"
+        fill="#FDFCFA" opacity="0.9" filter="url(#softShadow)"/>
+
+  <!-- Body / Robe — flowing white -->
+  <path d="M 370,160 C 360,165 348,180 345,200 L 338,310 C 345,340 365,380 370,420 L 400,420 C 400,380 400,340 400,310 C 400,310 400,310 400,310 C 400,340 400,380 400,420 L 430,420 C 435,380 455,340 462,310 L 455,200 C 452,180 440,165 430,160 Z"
+        fill="#FAFAF8" opacity="0.95"/>
+
+  <!-- Armor chest plate in champagne gold outlines -->
+  <path d="M 362,165 C 368,158 382,152 400,150 C 418,152 432,158 438,165 L 444,195 C 435,190 420,185 400,184 C 380,185 365,190 356,195 Z"
+        fill="#F8F6F0" stroke="#D6BD86" stroke-width="1.2" opacity="0.9"/>
+
+  <!-- Arms -->
+  <path d="M 358,195 C 348,200 335,220 328,245 C 322,260 325,280 332,285 C 338,268 345,250 355,240 L 362,220 Z" fill="#F5F2EA" opacity="0.9"/>
+  <path d="M 442,195 C 452,200 465,220 472,245 C 478,260 475,280 468,285 C 462,268 455,250 445,240 L 438,220 Z" fill="#F5F2EA" opacity="0.9"/>
+
+  <!-- Neck / Face area — soft oval -->
+  <ellipse cx="400" cy="135" rx="20" ry="24" fill="#F8F4EE" opacity="0.9"/>
+  <!-- Hair — flowing light silver-white -->
+  <path d="M 382,115 C 374,108 370,98 374,88 C 380,80 390,76 400,75 C 410,76 420,80 426,88 C 430,98 426,108 418,115" fill="none" stroke="#E8E4DC" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+  <path d="M 382,115 C 370,120 360,135 358,155" fill="none" stroke="#E8E4DC" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 418,115 C 430,120 440,135 442,155" fill="none" stroke="#E8E4DC" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- === HALO CROWN === -->
+  <ellipse cx="400" cy="68" rx="52" ry="13" fill="none" stroke="url(#goldGrad)" stroke-width="3" filter="url(#haloGlow)" opacity="0.95"/>
+  <ellipse cx="400" cy="68" rx="40" ry="9"  fill="none" stroke="#FFFFFF" stroke-width="1.2" opacity="0.85"/>
+  <ellipse cx="400" cy="68" rx="30" ry="6"  fill="#FEF9EA" opacity="0.3"/>
+
+  <!-- Halo 8-point star at zenith -->
+  <g transform="translate(400, 50)" filter="url(#haloGlow)">
+    <polygon points="0,-16 2.5,-4 16,0 2.5,4 0,16 -2.5,4 -16,0 -2.5,-4" fill="url(#goldGrad)"/>
+    <polygon points="0,-10 1.5,-2.5 10,0 1.5,2.5 0,10 -1.5,2.5 -10,0 -1.5,-2.5" fill="#FFFFFF"/>
+    <circle cx="0" cy="0" r="2" fill="#D6BD86"/>
+  </g>
+
+  <!-- Small sparkles near halo -->
+  <g fill="#D6BD86" font-size="8" filter="url(#glow)" opacity="0.9">
+    <polygon points="348,42 350,37 352,42 350,47"/>
+    <polygon points="450,40 452,35 454,40 452,45"/>
+    <polygon points="370,28 372,24 374,28 372,32" opacity="0.7"/>
+    <polygon points="430,26 432,22 434,26 432,30" opacity="0.7"/>
+  </g>
+
+  <!-- === RIGHT SIDE TEXT PANEL === -->
+  <rect x="660" y="0" width="540" height="420" fill="url(#panelFade)" rx="0"/>
+
+  <!-- Decorative top rule -->
+  <line x1="720" y1="85" x2="1150" y2="85" stroke="#D6BD86" stroke-width="0.8" opacity="0.5"/>
+  <line x1="720" y1="88" x2="1150" y2="88" stroke="#E9E7E2" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- NY Monogram small -->
+  <text x="730" y="78" font-family="'Cinzel', 'Cormorant Garamond', Georgia, serif" font-size="13" font-weight="700" letter-spacing="6" fill="#D6BD86" opacity="0.8">N · Y</text>
+
+  <!-- Main Name -->
+  <text x="720" y="150" font-family="'Cinzel', 'Cormorant Garamond', Georgia, serif" font-size="52" font-weight="700" letter-spacing="4" fill="#202329">NEELESH</text>
+  <text x="720" y="205" font-family="'Cinzel', 'Cormorant Garamond', Georgia, serif" font-size="52" font-weight="700" letter-spacing="4" fill="#202329">YADAV</text>
+
+  <!-- Gold accent underline -->
+  <rect x="720" y="215" width="300" height="2" rx="1" fill="url(#goldGrad)"/>
+  <rect x="720" y="220" width="180" height="1" rx="1" fill="#E9E7E2" opacity="0.8"/>
+
+  <!-- Tagline -->
+  <text x="720" y="252" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="5" fill="#8B7A5A">ENGINEERING BEYOND THE ORDINARY</text>
+
+  <!-- Role line -->
+  <text x="722" y="285" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" letter-spacing="3" fill="#A09070">FULL-STACK ENGINEER  ·  SYSTEM ARCHITECT  ·  INDIA</text>
+
+  <!-- Decorative bottom rule -->
+  <line x1="720" y1="310" x2="1130" y2="310" stroke="#E9E7E2" stroke-width="0.6" opacity="0.7"/>
+
+  <!-- Bottom domain tags -->
+  <g font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9.5" fill="#A88B50" opacity="0.75">
+    <text x="724" y="332">◈ DISTRIBUTED SYSTEMS  ◈ REST APIs  ◈ NEXT.JS</text>
+    <text x="724" y="348">◈ MONGODB  ◈ NODE.JS  ◈ TYPESCRIPT  ◈ DSA</text>
+  </g>
+
+  <!-- Bottom gold ornament -->
+  <g transform="translate(720, 375)" opacity="0.6">
+    <line x1="0" y1="0" x2="50" y2="0" stroke="#D6BD86" stroke-width="0.8"/>
+    <polygon points="56,0 60,-3 64,0 60,3" fill="#D6BD86"/>
+    <line x1="66" y1="0" x2="116" y2="0" stroke="#D6BD86" stroke-width="0.8"/>
+  </g>
+</svg>
