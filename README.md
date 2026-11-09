@@ -1,7 +1,7 @@
-<!-- ═══════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════
      DIVINE ENGINEERING — NEELESH YADAV — GITHUB PROFILE
      Celestial Light Identity · White · Ivory · Champagne Gold
-     ═══════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -17,32 +17,32 @@
 
 # NEELESH YADAV
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1200&color=A88B50&center=true&vCenter=true&width=720&lines=Engineering+Beyond+the+Ordinary;Full-Stack+Engineer+%E2%80%A2+System+Architect;Distributed+Systems+%E2%80%A2+Backend+%E2%80%A2+APIs;Crafting+Luminous+Logic+from+First+Principles" alt="Celestial Tagline">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1200&color=A88B50&center=true&vCenter=true&width=720&background=FDFBF700&lines=Engineering+Beyond+the+Ordinary;Full-Stack+Engineer+%E2%80%A2+System+Architect;Distributed+Systems+%E2%80%A2+Backend+%E2%80%A2+APIs;Crafting+Luminous+Logic+from+First+Principles" alt="Celestial Tagline">
 
 <br>
 
-<!-- ✦ IDENTITY BADGES — Light Celestial Palette ✦ -->
-<img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%26%20Systems-D6BD86?style=flat-square&labelColor=F8F6F1&color=A88B50" alt="Role">
+<!-- ✦ IDENTITY BADGES — Full ivory / champagne gold palette ✦ -->
+<img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%26%20Systems-A88B50?style=flat-square&labelColor=F5F0E6" alt="Role">
 &nbsp;
-<img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-BFC5CE?style=flat-square&labelColor=F8F6F1&color=8B9CB0" alt="Specialization">
+<img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-8B9CB0?style=flat-square&labelColor=EEF2F7" alt="Specialization">
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India-D6BD86?style=flat-square&labelColor=F8F6F1&color=A88B50" alt="India">
+<img src="https://img.shields.io/badge/Location-India-A88B50?style=flat-square&labelColor=F5F0E6" alt="India">
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-A3C4A0?style=flat-square&labelColor=F8F6F1&color=5A8C5A" alt="Open">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-5A8C5A?style=flat-square&labelColor=EEF5EE" alt="Open">
 
 <br><br>
 
-<!-- ✦ ACTION LINKS — Champagne / Ivory Palette ✦ -->
+<!-- ✦ ACTION LINKS — Ivory / champagne palette ✦ -->
 <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/✦%20Portfolio-Explore%20Live-D6BD86?style=for-the-badge&logoColor=202329&labelColor=F5F1E8" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Live-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=F8F4EC" alt="Portfolio">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-  <img src="https://img.shields.io/badge/✦%20LinkedIn-Connect-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=1A1A2E&labelColor=EEF2F7" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6B8FB5?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=EEF3FA" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://github.com/neelesh1097?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/✦%20GitHub-Repository%20Vault-E9E7E2?style=for-the-badge&logo=github&logoColor=202329&labelColor=F5F1E8" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Repository%20Vault-5A5A5A?style=for-the-badge&logo=github&logoColor=5A5A5A&labelColor=F0EEE8" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://komarev.com/ghpvc/?username=neelesh1097" target="_blank">
@@ -231,15 +231,9 @@ My focus has evolved beyond feature delivery toward **system design, data modeli
 
 ## &nbsp; ✦ &nbsp; VI &nbsp;·&nbsp; Celestial Horizons
 
-```
- ACTIVE DEEP-DIVES & ARCHITECTURAL FOCUS
- ┌─────────────────────────────────────────────────────────────────────────────────┐
- │  01  Distributed Systems    ──→  Kafka · RabbitMQ · Redis · Eventual Consistency │
- │  02  Advanced System Design ──→  Sharding · Read Replicas · CAP · Token Bucket  │
- │  03  Algorithmic Mastery    ──→  Graph Algorithms · DP · Heaps · Tries in Java  │
- │  04  Cloud & DevOps         ──→  Docker Multi-stage · CI/CD · Observability     │
- └─────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="./assets/trajectory-panel.svg" width="92%" alt="Active Deep-Dives & Architectural Focus">
+</div>
 
 <div align="center">
   <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
@@ -251,25 +245,9 @@ My focus has evolved beyond feature delivery toward **system design, data modeli
 
 ## &nbsp; ✦ &nbsp; VII &nbsp;·&nbsp; The Divine Engineering Codex
 
-```
- ┌─────────────────────────────────────────────────────────────────────────────────────┐
- │                         THE DIVINE ENGINEERING CODEX                                │
- ├─────────────────────────────────────────────────────────────────────────────────────┤
- │                                                                                     │
- │  ✧  ABSTRACTION HYGIENE   →  Never abstract prematurely. Duplication is cheaper    │
- │                               than the wrong abstraction. Clarity above all.       │
- │                                                                                     │
- │  ✧  MEASURED PERFORMANCE  →  Measure first, then optimize. Know your algorithmic   │
- │                               bounds, indexing topology, and cache mechanics.      │
- │                                                                                     │
- │  ✧  ARCHITECTURAL TRUTH   →  Validate at every boundary. Make illegal states      │
- │                               unrepresentable through strict types and schemas.    │
- │                                                                                     │
- │  ✧  ETERNAL STEWARDSHIP   →  Ownership extends from the first architecture diagram │
- │                               to the last second of production uptime.             │
- │                                                                                     │
- └─────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="./assets/codex-panel.svg" width="92%" alt="The Divine Engineering Codex">
+</div>
 
 <div align="center">
   <img src="./assets/celestial-divider.svg" width="80%" alt="Celestial Divider">
@@ -285,15 +263,15 @@ Whether you are exploring **distributed architecture, backend scalability, full-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Neelesh-BFC5CE?style=for-the-badge&logo=linkedin&logoColor=1A1A2E&labelColor=EEF2F7" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Neelesh-6B8FB5?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=EEF3FA" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Showcase-D6BD86?style=for-the-badge&logo=vercel&logoColor=202329&labelColor=F5F1E8" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Showcase-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=F8F4EC" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://github.com/neelesh1097" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Activity-E9E7E2?style=for-the-badge&logo=github&logoColor=202329&labelColor=F5F1E8" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Activity-5A5A5A?style=for-the-badge&logo=github&logoColor=5A5A5A&labelColor=F0EEE8" alt="GitHub">
   </a>
 </p>
 

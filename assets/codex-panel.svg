@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 290" width="100%">
+  <defs>
+    <linearGradient id="codexBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#FDFBF7"/>
+      <stop offset="100%" stop-color="#F3EDE0"/>
+    </linearGradient>
+    <linearGradient id="codexGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#E5CFA0"/>
+      <stop offset="100%" stop-color="#A88B50"/>
+    </linearGradient>
+    <linearGradient id="starGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"  stop-color="#FDF6E2"/>
+      <stop offset="50%" stop-color="#D6BD86"/>
+      <stop offset="100%" stop-color="#A88B50"/>
+    </linearGradient>
+    <filter id="panelShadow" x="-2%" y="-2%" width="104%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#C8B89A" flood-opacity="0.14"/>
+    </filter>
+    <filter id="starGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main panel -->
+  <rect x="1" y="1" width="858" height="288" rx="12" fill="url(#codexBg)"
+        stroke="#E0CEAB" stroke-width="1.2" filter="url(#panelShadow)"/>
+  <!-- Inner dashed border -->
+  <rect x="10" y="10" width="840" height="270" rx="9" fill="none"
+        stroke="#EDE0C4" stroke-width="0.6" stroke-dasharray="4,8" opacity="0.65"/>
+
+  <!-- Left gold accent bar -->
+  <rect x="1" y="1" width="5" height="288" rx="2.5" fill="url(#codexGold)"/>
+
+  <!-- Top corner celestial star ornament -->
+  <g transform="translate(830,30)" filter="url(#starGlow)">
+    <polygon points="0,-12 2,-3 12,0 2,3 0,12 -2,3 -12,0 -2,-3" fill="url(#starGold)"/>
+    <polygon points="0,-7 1.2,-1.8 7,0 1.2,1.8 0,7 -1.2,1.8 -7,0 -1.2,-1.8" fill="#FAF8F4"/>
+    <circle cx="0" cy="0" r="1.3" fill="#D6BD86"/>
+  </g>
+
+  <!-- Header -->
+  <text x="30" y="38" font-family="'Cinzel','Georgia',serif" font-size="13"
+        font-weight="700" letter-spacing="5" fill="#A88B50">THE DIVINE ENGINEERING CODEX</text>
+  <line x1="30" y1="47" x2="828" y2="47" stroke="#E0CEAB" stroke-width="0.9"/>
+
+  <!-- Principle I -->
+  <g transform="translate(30, 68)">
+    <text font-family="'Cinzel','Georgia',serif" font-size="10" font-weight="700"
+          letter-spacing="1" fill="#D6BD86">✧  I.  ABSTRACTION HYGIENE</text>
+    <line x1="0" y1="12" x2="800" y2="12" stroke="#EDE0C4" stroke-width="0.5"/>
+    <text y="27" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">Never abstract prematurely. Duplication is cheaper than the wrong abstraction.</text>
+    <text y="43" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">Clarity is the highest virtue of logic.</text>
+  </g>
+
+  <!-- Principle II -->
+  <g transform="translate(30, 130)">
+    <text font-family="'Cinzel','Georgia',serif" font-size="10" font-weight="700"
+          letter-spacing="1" fill="#D6BD86">✧  II.  MEASURED PERFORMANCE</text>
+    <line x1="0" y1="12" x2="800" y2="12" stroke="#EDE0C4" stroke-width="0.5"/>
+    <text y="27" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">Measure first, then optimize. Know your algorithmic bounds, indexing topology,</text>
+    <text y="43" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">and cache invalidation mechanics before touching production.</text>
+  </g>
+
+  <!-- Principle III -->
+  <g transform="translate(30, 192)">
+    <text font-family="'Cinzel','Georgia',serif" font-size="10" font-weight="700"
+          letter-spacing="1" fill="#D6BD86">✧  III.  ARCHITECTURAL TRUTH</text>
+    <line x1="0" y1="12" x2="800" y2="12" stroke="#EDE0C4" stroke-width="0.5"/>
+    <text y="27" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">Validate at every boundary. Make illegal states unrepresentable through strict</text>
+    <text y="43" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">types, immutable contracts, and resilient schema design.</text>
+  </g>
+
+  <!-- Principle IV — brief -->
+  <g transform="translate(30, 254)">
+    <text font-family="'Cinzel','Georgia',serif" font-size="10" font-weight="700"
+          letter-spacing="1" fill="#D6BD86">✧  IV.  ETERNAL STEWARDSHIP</text>
+    <text x="0" y="22" font-family="'Inter','Helvetica Neue',sans-serif" font-size="11.5"
+          fill="#5A4E36" letter-spacing="0.3">True ownership extends from the first architecture diagram to production uptime at scale.</text>
+  </g>
+
+  <!-- Footer rule + signature -->
+  <line x1="30" y1="278" x2="828" y2="278" stroke="#E0CEAB" stroke-width="0.6"/>
+  <text x="30" y="289" font-family="'Inter','Helvetica Neue',sans-serif" font-size="8.5"
+        letter-spacing="2.5" fill="#BBA870" opacity="0.75">NEELESH YADAV · AD ASTRA PER ASPERA</text>
+</svg>
