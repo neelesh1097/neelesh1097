@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
   <defs>
-    <!-- Gradients -->
+    <!-- Celestial Sky EEF3FA Gradients -->
     <linearGradient id="embBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="60%" stop-color="#FBF9F5"/>
-      <stop offset="100%" stop-color="#F1EBE0"/>
+      <stop offset="50%" stop-color="#EEF3FA"/>
+      <stop offset="100%" stop-color="#E2ECF7"/>
     </linearGradient>
 
     <linearGradient id="embGold" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -30,7 +30,7 @@
   </defs>
 
   <!-- Circular Outer Medallion -->
-  <circle cx="150" cy="150" r="145" fill="url(#embBg)" stroke="#E9E7E2" stroke-width="2"/>
+  <circle cx="150" cy="150" r="145" fill="url(#embBg)" stroke="#C8D8EB" stroke-width="2"/>
   <circle cx="150" cy="150" r="136" fill="none" stroke="url(#embGold)" stroke-width="1.2" stroke-dasharray="2, 4" opacity="0.6"/>
   <circle cx="150" cy="150" r="126" fill="none" stroke="url(#embSilver)" stroke-width="0.8" opacity="0.5"/>
   <circle cx="150" cy="150" r="110" fill="none" stroke="url(#embGold)" stroke-width="1.5" opacity="0.85"/>
@@ -76,6 +76,5 @@
   </text>
   
   <text x="150" y="240" text-anchor="middle" font-family="'Cinzel', 'Georgia', serif" font-size="8.5" font-weight="600" letter-spacing="3" fill="#202329">NEELESH YADAV</text>
-  <text x="150" y="254" text-anchor="middle" font-family="'Inter', sans-serif" font-size="7" font-weight="500" letter-spacing="2" fill="#8B949E">EST. MMXXIV</text>
+  <text x="150" y="254" text-anchor="middle" font-family="'Inter', sans-serif" font-size="7" font-weight="500" letter-spacing="2" fill="#6A8CA8">EST. MMXXIV</text>
 </svg>
-

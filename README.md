@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      DIVINE ENGINEERING — NEELESH YADAV — GITHUB PROFILE
-     Celestial Light Identity · White · Ivory · Champagne Gold
+     Celestial Icy Pearl (#EEF3FA) · Champagne Gold (#D6BD86 / #A88B50)
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,43 +10,43 @@
 
 <br><br>
 
-<!-- ✦ NY SEAL ✦ -->
+<!-- ✦ NY SEAL (EEF3FA & Gold Tinted) ✦ -->
 <img src="./assets/ny-emblem.svg" width="90" alt="NY Celestial Emblem">
 
 <br>
 
 # NEELESH YADAV
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1200&color=A88B50&center=true&vCenter=true&width=720&background=FDFBF700&lines=Engineering+Beyond+the+Ordinary;Full-Stack+Engineer+%E2%80%A2+System+Architect;Distributed+Systems+%E2%80%A2+Backend+%E2%80%A2+APIs;Crafting+Luminous+Logic+from+First+Principles" alt="Celestial Tagline">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=18&duration=3000&pause=1200&color=A88B50&center=true&vCenter=true&width=720&lines=Engineering+Beyond+the+Ordinary;Full-Stack+Engineer+%E2%80%A2+System+Architect;Distributed+Systems+%E2%80%A2+Backend+%E2%80%A2+APIs;Crafting+Luminous+Logic+from+First+Principles" alt="Celestial Tagline">
 
 <br>
 
-<!-- ✦ IDENTITY BADGES — Full ivory / champagne gold palette ✦ -->
-<img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%26%20Systems-A88B50?style=flat-square&labelColor=F5F0E6" alt="Role">
+<!-- ✦ IDENTITY BADGES — Harmonized #EEF3FA & Champagne Gold Palette ✦ -->
+<img src="https://img.shields.io/badge/Software%20Engineer-Full--Stack%20%26%20Systems-A88B50?style=flat-square&labelColor=EEF3FA&color=A88B50" alt="Role">
 &nbsp;
-<img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-8B9CB0?style=flat-square&labelColor=EEF2F7" alt="Specialization">
+<img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-4A6A8A?style=flat-square&labelColor=EEF3FA&color=4A6A8A" alt="Specialization">
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India-A88B50?style=flat-square&labelColor=F5F0E6" alt="India">
+<img src="https://img.shields.io/badge/Location-India-A88B50?style=flat-square&labelColor=EEF3FA&color=A88B50" alt="India">
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-5A8C5A?style=flat-square&labelColor=EEF5EE" alt="Open">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3E7A5E?style=flat-square&labelColor=EEF3FA&color=3E7A5E" alt="Open">
 
 <br><br>
 
-<!-- ✦ ACTION LINKS — Ivory / champagne palette ✦ -->
+<!-- ✦ ACTION LINKS — Celestial Pearl & Gold Palette ✦ -->
 <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20Live-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=F8F4EC" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Live-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=EEF3FA" alt="Portfolio">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6B8FB5?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=EEF3FA" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-3A6B9B?style=for-the-badge&logo=linkedin&logoColor=2C5282&labelColor=EEF3FA" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://github.com/neelesh1097?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repository%20Vault-5A5A5A?style=for-the-badge&logo=github&logoColor=5A5A5A&labelColor=F0EEE8" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Repository%20Vault-4A5568?style=for-the-badge&logo=github&logoColor=2D3748&labelColor=EEF3FA" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://komarev.com/ghpvc/?username=neelesh1097" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=neelesh1097&color=D6BD86&style=flat-square&label=Visitors" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=neelesh1097&color=A88B50&style=flat-square&label=Visitors" alt="Profile Views">
 </a>
 
 <br><br>
@@ -62,7 +62,7 @@
 ## &nbsp; ✦ &nbsp; I &nbsp;·&nbsp; The Architecture of Intent
 
 <img src="./profile.png" width="160" align="right" alt="Neelesh Yadav"
-  style="border-radius: 50%; margin: 0 0 20px 28px; border: 2px solid #E9E7E2;">
+  style="border-radius: 50%; margin: 0 0 20px 28px; border: 2px solid #C8D8EB;">
 
 I am a **Software Engineer** dedicated to building web systems of enduring quality, resilient backend architecture, and seamless digital experiences. I approach engineering as modern cathedral-building: sculpted from mathematical logic, elevated through architectural discipline, and built to endure.
 
@@ -263,15 +263,15 @@ Whether you are exploring **distributed architecture, backend scalability, full-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/neelesh-yadav-a5988b292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Neelesh-6B8FB5?style=for-the-badge&logo=linkedin&logoColor=4A6FA5&labelColor=EEF3FA" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Neelesh-3A6B9B?style=for-the-badge&logo=linkedin&logoColor=2C5282&labelColor=EEF3FA" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://porfolio-eta-lilac.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Showcase-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=F8F4EC" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Showcase-A88B50?style=for-the-badge&logo=vercel&logoColor=A88B50&labelColor=EEF3FA" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://github.com/neelesh1097" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Activity-5A5A5A?style=for-the-badge&logo=github&logoColor=5A5A5A&labelColor=F0EEE8" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Activity-4A5568?style=for-the-badge&logo=github&logoColor=2D3748&labelColor=EEF3FA" alt="GitHub">
   </a>
 </p>
 

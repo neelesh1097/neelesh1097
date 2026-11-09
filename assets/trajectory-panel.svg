@@ -1,24 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 180" width="100%">
   <defs>
     <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#FDFBF7"/>
-      <stop offset="100%" stop-color="#F5F0E8"/>
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="40%"  stop-color="#EEF3FA"/>
+      <stop offset="100%" stop-color="#E2ECF7"/>
     </linearGradient>
     <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#E5CFA0"/>
       <stop offset="100%" stop-color="#A88B50"/>
     </linearGradient>
     <filter id="shadow" x="-2%" y="-4%" width="104%" height="115%">
-      <feDropShadow dx="0" dy="3" stdDeviation="8" flood-color="#C8B89A" flood-opacity="0.12"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="8" flood-color="#7B9BB8" flood-opacity="0.12"/>
     </filter>
   </defs>
 
-  <!-- Panel background -->
+  <!-- Panel background in EEF3FA celestial sky tint -->
   <rect x="1" y="1" width="858" height="178" rx="10" fill="url(#panelBg)"
-        stroke="#E5D5B0" stroke-width="1" filter="url(#shadow)"/>
+        stroke="#C8D8EB" stroke-width="1" filter="url(#shadow)"/>
   <!-- Inner fine border -->
   <rect x="8" y="8" width="844" height="162" rx="8" fill="none"
-        stroke="#EDE0C4" stroke-width="0.6" stroke-dasharray="4,6" opacity="0.7"/>
+        stroke="#D5E3F2" stroke-width="0.6" stroke-dasharray="4,6" opacity="0.8"/>
 
   <!-- Left gold accent bar -->
   <rect x="1" y="1" width="4" height="178" rx="2" fill="url(#gold)"/>
@@ -26,42 +27,41 @@
   <!-- Header -->
   <text x="30" y="38" font-family="'Cinzel','Georgia',serif" font-size="12"
         font-weight="700" letter-spacing="4" fill="#A88B50">ACTIVE DEEP-DIVES &amp; ARCHITECTURAL FOCUS</text>
-  <line x1="30" y1="45" x2="830" y2="45" stroke="#E5D5B0" stroke-width="0.8"/>
+  <line x1="30" y1="45" x2="830" y2="45" stroke="#C8D8EB" stroke-width="0.8"/>
 
   <!-- Items -->
-  <g font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#4A3F2A">
+  <g font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#202329">
     <!-- Row 1 -->
     <text x="30" y="72">
-      <tspan fill="#D6BD86" font-weight="700">01</tspan>
-      <tspan fill="#BBA870">  Distributed Systems   </tspan>
+      <tspan fill="#A88B50" font-weight="700">01</tspan>
+      <tspan fill="#4A6A8A">  Distributed Systems   </tspan>
       <tspan fill="#A88B50">──→</tspan>
-      <tspan fill="#5A4E36">  Kafka · RabbitMQ · Redis · Eventual Consistency</tspan>
+      <tspan fill="#2C3E50">  Kafka · RabbitMQ · Redis · Eventual Consistency</tspan>
     </text>
     <!-- Row 2 -->
     <text x="30" y="96">
-      <tspan fill="#D6BD86" font-weight="700">02</tspan>
-      <tspan fill="#BBA870">  Advanced System Design </tspan>
+      <tspan fill="#A88B50" font-weight="700">02</tspan>
+      <tspan fill="#4A6A8A">  Advanced System Design </tspan>
       <tspan fill="#A88B50">──→</tspan>
-      <tspan fill="#5A4E36">  Sharding · Read Replicas · CAP · Token Bucket</tspan>
+      <tspan fill="#2C3E50">  Sharding · Read Replicas · CAP · Token Bucket</tspan>
     </text>
     <!-- Row 3 -->
     <text x="30" y="120">
-      <tspan fill="#D6BD86" font-weight="700">03</tspan>
-      <tspan fill="#BBA870">  Algorithmic Mastery    </tspan>
+      <tspan fill="#A88B50" font-weight="700">03</tspan>
+      <tspan fill="#4A6A8A">  Algorithmic Mastery    </tspan>
       <tspan fill="#A88B50">──→</tspan>
-      <tspan fill="#5A4E36">  Graph Algorithms · DP · Heaps · Tries in Java</tspan>
+      <tspan fill="#2C3E50">  Graph Algorithms · DP · Heaps · Tries in Java</tspan>
     </text>
     <!-- Row 4 -->
     <text x="30" y="144">
-      <tspan fill="#D6BD86" font-weight="700">04</tspan>
-      <tspan fill="#BBA870">  Cloud &amp; DevOps         </tspan>
+      <tspan fill="#A88B50" font-weight="700">04</tspan>
+      <tspan fill="#4A6A8A">  Cloud &amp; DevOps         </tspan>
       <tspan fill="#A88B50">──→</tspan>
-      <tspan fill="#5A4E36">  Docker Multi-stage · CI/CD Pipelines · Observability</tspan>
+      <tspan fill="#2C3E50">  Docker Multi-stage · CI/CD Pipelines · Observability</tspan>
     </text>
   </g>
 
   <!-- Footer signature -->
   <text x="30" y="168" font-family="'Inter','Helvetica Neue',sans-serif" font-size="9"
-        font-weight="400" letter-spacing="2.5" fill="#BBA870" opacity="0.8">NEELESH YADAV · DIVINE ENGINEERING · CELESTIAL TRAJECTORY</text>
+        font-weight="400" letter-spacing="2.5" fill="#6A8CA8" opacity="0.85">NEELESH YADAV · DIVINE ENGINEERING · CELESTIAL TRAJECTORY</text>
 </svg>
-
