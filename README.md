@@ -282,7 +282,5 @@ Whether you are exploring **distributed architecture, backend scalability, full-
   <br><br>
   <sub>
     Divinely engineered by <strong>Neelesh Yadav</strong>
-    &nbsp;·&nbsp; Crafted with architectural discipline &amp; celestial precision
-    &nbsp;·&nbsp; <em>Ad Astra Per Aspera</em>
   </sub>
 </div>
